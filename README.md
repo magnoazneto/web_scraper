@@ -6,3 +6,7 @@ Para usar o scraper, você deverá ter instalado o pymongo em seu ambiente, bem 
 
 ## Arquivos
 A classe keyword_scraper é a que define a url inicial e a keyword a ser buscada. A classe scraper_class é a responsável pelo algoritmo de busca, fazendo uso da page_class em algumas situações.
+
+Autores:
+Magno Azevedo
+Tatiana Sousa
